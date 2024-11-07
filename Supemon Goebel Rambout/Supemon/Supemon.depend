@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1728205730 source:c:\users\user\desktop\cour\c\projet_supemon\supemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"header.h"
+
+1728202648 c:\users\user\desktop\cour\c\projet_supemon\supemon\header.h
+
+1728202531 source:c:\users\user\desktop\cour\c\projet_supemon\supemon\dex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1728124977 source:c:\users\user\desktop\cour\c\projet_supemon\supemon\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1728200892 source:c:\users\user\desktop\cour\c\projet_supemon\supemon\move.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1728325554 source:c:\users\user\desktop\cour\c\projet_supemon - copie\supemon\dex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1728326938 c:\users\user\desktop\cour\c\projet_supemon - copie\supemon\header.h
+
+1728124977 source:c:\users\user\desktop\cour\c\projet_supemon - copie\supemon\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1728465844 source:c:\users\user\desktop\cour\c\projet_supemon - copie\supemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1728466234 source:c:\users\user\desktop\cour\c\projet_supemon - copie\supemon\move.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1728809126 source:c:\users\clech\downloads\projet_supemon (1)\projet_supemon - copie\supemon\dex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1728809126 c:\users\clech\downloads\projet_supemon (1)\projet_supemon - copie\supemon\header.h
+
+1728809126 source:c:\users\clech\downloads\projet_supemon (1)\projet_supemon - copie\supemon\move.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1728897327 source:c:\users\clech\downloads\projet_supemon (1)\projet_supemon - copie\supemon\item.c
+	"item.h"
+	<stdio.h>
+
+1728897281 c:\users\clech\downloads\projet_supemon (1)\projet_supemon - copie\supemon\item.h
+
+1728979923 source:c:\users\clech\downloads\projet_supemon (1)\projet_supemon - copie\supemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"header.h"
+	"item.h"
+
+1728992337 source:c:\users\user\desktop\cour\c\supemon (5)\dex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1728992238 c:\users\user\desktop\cour\c\supemon (5)\header.h
+
+1728992238 source:c:\users\user\desktop\cour\c\supemon (5)\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1728992225 c:\users\user\desktop\cour\c\supemon (5)\item.h
+
+1728989410 source:c:\users\user\desktop\cour\c\supemon (5)\move.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1728995164 source:c:\users\user\desktop\cour\c\supemon (5)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"header.h"
+	"item.h"
+
+1729332553 source:c:\users\clech\downloads\supemon(6) (1)\supemon (5)\dex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1729332553 c:\users\clech\downloads\supemon(6) (1)\supemon (5)\header.h
+
+1729332553 source:c:\users\clech\downloads\supemon(6) (1)\supemon (5)\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1729347450 source:c:\users\clech\downloads\supemon(6) (1)\supemon (5)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"header.h"
+
+1729347455 source:c:\users\clech\downloads\supemon(6) (1)\supemon (5)\move.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
